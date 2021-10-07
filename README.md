@@ -10,7 +10,7 @@
 
 
 
-***********Follow me on*****************
+                     Follow me on
 
 facebook: https://www.facebook.com/profile.php?id=100010604229339
 
