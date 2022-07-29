@@ -4,7 +4,7 @@
 - 👋 Hi,Salam, I’m Syed Mustafa Ahmed
 - My PortFolio: https://syedmustafa.netlify.app
 - Frontend develepor
-- 👀 I’m interested in Coding(Html,CSS,JS)
+- 👀 I’m interested in React Native development
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on learners
 
