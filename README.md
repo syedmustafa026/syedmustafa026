@@ -1,4 +1,4 @@
-<h1 align="center">Assalam o Alaikum 👋, I'm Syed Mustafa Ahmed</h1>
+<h1 align="center">Hey fellows👋, I'm Syed Mustafa Ahmed</h1>
 <h3 align="center">Student at SSUET, Karachi🌟.</h3>
 
 <br>
